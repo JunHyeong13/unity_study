@@ -1,4 +1,4 @@
-# My Portfolio
+# Study Case-By-Case
 
 Computer vision and interactive application projects built with Python, OpenCV, Unity, and C#.
 
